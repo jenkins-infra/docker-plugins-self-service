@@ -1,6 +1,6 @@
 # plugins-self-service
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/halkeye/plugins-self-service/tree/master)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jenkins-infra/plugins-self-service/tree/master)
 
 Little app to manage some once in a while tasks for plugin maintainers
 
