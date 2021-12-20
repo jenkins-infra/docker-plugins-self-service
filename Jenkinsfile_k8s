@@ -1,1 +1,1 @@
-parallelDockerUpdatecli([imageName: 'helmfile', rebuildImageOnPeriodicJob: false])
+parallelDockerUpdatecli([imageName: 'plugins-self-service', rebuildImageOnPeriodicJob: false])
