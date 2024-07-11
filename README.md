@@ -1,3 +1,5 @@
+Archived, see https://github.com/jenkins-infra/helpdesk/issues/4175
+
 # plugins-self-service
 
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jenkins-infra/plugins-self-service/tree/master)
